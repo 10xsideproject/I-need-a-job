@@ -1,3 +1,3 @@
 class ApplicationController < ActionController::Base
-  123
+  1234
 end
